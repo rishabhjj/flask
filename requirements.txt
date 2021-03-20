@@ -18,7 +18,7 @@ html5lib==0.999
 httplib2==0.9.1
 idna==2.0
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 kafka-python==1.4.4
 lxml==3.5.0
 Mako==1.0.3
