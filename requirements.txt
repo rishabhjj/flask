@@ -21,7 +21,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 kafka-python==1.4.4
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==1.1.0
 oauthlib==1.0.3
 padme==1.1.1
